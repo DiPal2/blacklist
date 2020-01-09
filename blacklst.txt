@@ -5,6 +5,7 @@ ad.afy11.net
 ad.crwdcntrl.net
 ad.mail.ru
 ad.tam.by
+ad16.adriver.ru
 ads.adfox.ru
 ads.adtarget.me
 ads.altitude-arena.com
@@ -35,10 +36,13 @@ pix.eu.criteo.net
 pixel.advertising.com
 px.adhigh.net
 reklama.tut.by
+reklama-02.tut.by
 rtb.nativeads.com
 s.amazon-adsystem.com
 secure-ads.pictela.net
 securepubads.g.doubleclick.net
+sipuha.mail.ru
+slb-content.adfox.ru
 st.yandexadexchange.net
 static-ads.adtarget.me
 static-system.adtarget.me
