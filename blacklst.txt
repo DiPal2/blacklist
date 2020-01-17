@@ -28,6 +28,7 @@ dis.eu.criteo.com
 gaby.hit.gemius.pl
 gaby1.hit.gemius.pl
 googleads.g.doubleclick.net
+jsc.mgid.com
 livemobilesearch.com
 ls.hit.gemius.pl
 match.adsrvr.org
