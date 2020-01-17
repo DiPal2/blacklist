@@ -52,4 +52,5 @@ static.doubleclick.net
 stats.g.doubleclick.net
 sync.adaptv.advertising.com
 sync.adkernel.com
+v.ankunding.biz
 www.chokoladsrv.net
