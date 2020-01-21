@@ -20,7 +20,8 @@ banners.adfox.ru
 bidder.criteo.com
 bugaga.tut.by
 c.amazon-adsystem.com
-c1hit.tut.by c2hit.tut.by
+c1hit.tut.by
+c2hit.tut.by
 cm.g.doubleclick.net
 counter.yadro.ru
 d-ughwashes.ru
