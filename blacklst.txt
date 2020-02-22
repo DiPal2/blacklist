@@ -22,6 +22,7 @@ bugaga.tut.by
 c.amazon-adsystem.com
 c1hit.tut.by
 c2hit.tut.by
+cm.adskeeper.co.uk
 cm.g.doubleclick.net
 counter.yadro.ru
 d-ughwashes.ru
@@ -34,6 +35,7 @@ livemobilesearch.com
 ls.hit.gemius.pl
 match.adsrvr.org
 mediametrics.ru
+mrelko.com
 pagead2.googlesyndication.com
 pix.eu.criteo.net
 pixel.advertising.com
@@ -54,5 +56,6 @@ static.doubleclick.net
 stats.g.doubleclick.net
 sync.adaptv.advertising.com
 sync.adkernel.com
+torvind.com
 v.ankunding.biz
 www.chokoladsrv.net
